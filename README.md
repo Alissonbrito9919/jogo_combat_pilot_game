@@ -27,12 +27,19 @@ Você precisa ter o [Python](https://www.python.org/) instalado em sua máquina.
 
 ### Instalação
 1. Clone este repositório:
-     git clone [https://github.com/SEU-USUARIO/combat-pilot-game.git](https://github.com/SEU-USUARIO/combat-pilot-game.git)
+
+       git clone [https://github.com/SEU-USUARIO/combat-pilot-game.git](https://github.com/SEU-USUARIO/combat-pilot-game.git)
+
 2-Entre na pasta do projeto:
+     
      cd combat-pilot-game
+
 3-Instale a dependência necessária:
+     
      pip install pgzero
+
 4-Para iniciar o jogo, execute o comando no terminal:
+     
      pgzrun main.py
 
 🕹️ Controles
