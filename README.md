@@ -26,7 +26,6 @@ O projeto foi criado para demonstrar conceitos fundamentais de desenvolvimento d
 Você precisa ter o [Python](https://www.python.org/) instalado em sua máquina.
 
 ### Instalação
-
 1. Clone este repositório:
    git clone [https://github.com/SEU-USUARIO/combat-pilot-game.git](https://github.com/SEU-USUARIO/combat-pilot-game.git)
 
